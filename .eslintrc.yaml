@@ -1,0 +1,8 @@
+rules:
+  indent: [2, 2]
+
+extends:
+  - recommended/esnext
+  - recommended/esnext/style-guide
+  - recommended/node
+  - recommended/node/style-guide
